@@ -11,7 +11,7 @@ Tools and Technology Used
 -------------------------
 * Tools used
   ----------
-  - STS
+  - STS: Spring tool suite
   - MYSQL
 * Technology
   ----------
