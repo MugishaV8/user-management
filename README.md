@@ -2,7 +2,7 @@
 This user management id developed in Java
 * Some Features
   -------------
-  -Authentication
+  - Authentication
   - Authorization
   - 
 Tools and Technology Used
