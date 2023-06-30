@@ -12,6 +12,7 @@ Tools and Technology Used
 Bellow there are tools and technology used to develop this project
 * Tools used
   ----------
+  in order to run this project on your machine you need to have the following tools installed 
   - STS: Spring tool suite
   - MYSQL
   - Postman
