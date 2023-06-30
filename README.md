@@ -4,7 +4,7 @@ This user management id developed in Java
   -------------
   - Authentication
   - Authorization
-  - 
+    
 Tools and Technology Used
 -------------------------
 - STS
