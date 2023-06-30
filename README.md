@@ -2,5 +2,5 @@
 
 Tools and Technology Used
 -------------------------
-STS
-MYSQL
+- STS
+- MYSQL
