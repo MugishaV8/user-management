@@ -4,7 +4,7 @@ This user management id developed in Java
   -------------
   - Authentication
   - Authorization
-  - Jwt
+  - Jwt Json Web Token
   - API Documentation
     
 Tools and Technology Used
