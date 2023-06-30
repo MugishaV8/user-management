@@ -11,6 +11,9 @@ Tools and Technology Used
 -------------------------
 * Tools used
   ----------
-- STS
-- MYSQL
+  - STS
+  - MYSQL
+* Technology
+  ----------
+   - Java (Spring boot)
 
