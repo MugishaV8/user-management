@@ -15,5 +15,6 @@ Tools and Technology Used
   - MYSQL
 * Technology
   ----------
-   - Java (Spring boot)
+   - Java
+   - Spring boot framework
 
