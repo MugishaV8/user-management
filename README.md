@@ -13,6 +13,7 @@ Tools and Technology Used
   ----------
   - STS: Spring tool suite
   - MYSQL
+  - Postman
 * Technology
   ----------
    - Java
