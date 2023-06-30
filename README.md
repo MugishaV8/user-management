@@ -5,6 +5,7 @@ This user management id developed in Java
   - Authentication
   - Authorization
   - Jwt
+  - API Documentation(Swagger)
     
 Tools and Technology Used
 -------------------------
