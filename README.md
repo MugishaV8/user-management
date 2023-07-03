@@ -1,5 +1,5 @@
 # user-management
-This user management id developed in Java
+This user management is developed in Java
 * Some Features
   -------------
   - Authentication
